@@ -10,7 +10,7 @@ A "Tokyo capsule wardrobe" doesn't mean buying head-to-toe Japanese brands. It m
 
 ## Step 1: Start With Three Neutral Basics
 
-Pick one top, one bottom, and one layering piece, all in colors that work together — think stone, off-white, charcoal, and olive. These should come from a brand with consistent fabric quality; UNIQLO is a reasonable default here. See our [UNIQLO basics guide](/blog/best-uniqlo-basics-for-a-minimalist-wardrobe/) if you need a starting list.
+Pick one top, one bottom, and one layering piece, all in colors that work together — think stone, off-white, charcoal, and olive. These should come from a brand with consistent fabric quality; UNIQLO is a reasonable default here. See our [UNIQLO basics guide](/blog/best-uniqlo-basics-for-a-minimalist-wardrobe) if you need a starting list.
 
 ## Step 2: Add One Secondhand "Anchor" Piece
 

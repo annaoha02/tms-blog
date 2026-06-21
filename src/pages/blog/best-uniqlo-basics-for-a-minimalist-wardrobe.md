@@ -18,11 +18,11 @@ Not a visible piece, but arguably the highest value-per-dollar item in the lineu
 
 ## 3. The Wide-Leg or Relaxed Trouser
 
-Covered in more detail in our [wide pants styling guide](/blog/uniqlo-wide-pants-4-ways-to-wear-them/), but worth repeating here: a well-fitted pair of wide trousers in a neutral tone is one of the few pieces that works for both casual and slightly dressed-up outfits.
+Covered in more detail in our [wide pants styling guide](/blog/uniqlo-wide-pants-4-ways-to-wear-them), but worth repeating here: a well-fitted pair of wide trousers in a neutral tone is one of the few pieces that works for both casual and slightly dressed-up outfits.
 
 ## 4. The Linen or Linen-Blend Shirt
 
-Breathable, structured, and easy to layer over or under other pieces. See our [full styling breakdown](/blog/how-to-style-the-uniqlo-linen-shirt/) for five ways to wear it.
+Breathable, structured, and easy to layer over or under other pieces. See our [full styling breakdown](/blog/how-to-style-the-uniqlo-linen-shirt) for five ways to wear it.
 
 ## 5. A Lightweight Blocktech or Packable Outer Layer
 
@@ -34,6 +34,6 @@ Trend-driven collaborations and seasonal colorways are the easiest way to lose t
 
 ## Building From Here
 
-These five categories are intentionally generic — fabric and fit matter more than chasing a specific item number. Once you have them, the rest of a capsule wardrobe is mostly about adding two or three secondhand pieces with texture and history. We walk through that process in our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget/).
+These five categories are intentionally generic — fabric and fit matter more than chasing a specific item number. Once you have them, the rest of a capsule wardrobe is mostly about adding two or three secondhand pieces with texture and history. We walk through that process in our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
 
 *This post may contain [affiliate links](/affiliate-disclosure).*

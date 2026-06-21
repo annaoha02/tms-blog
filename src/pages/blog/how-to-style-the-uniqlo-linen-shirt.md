@@ -36,6 +36,6 @@ Linen wrinkles by design, not by accident — it's part of the texture. UNIQLO's
 
 ## Building Around This Piece
 
-If you're working on a broader capsule wardrobe, the linen shirt pairs with almost every bottom in a neutral palette, which is what makes it a high-value piece per dollar. We'll cover a full breakdown in our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget/).
+If you're working on a broader capsule wardrobe, the linen shirt pairs with almost every bottom in a neutral palette, which is what makes it a high-value piece per dollar. We'll cover a full breakdown in our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
 
 *This post may contain [affiliate links](/affiliate-disclosure).*

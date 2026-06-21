@@ -32,6 +32,6 @@ Wide-leg pants are meant to pool slightly at the ankle or hit right at the shoe 
 
 ## What to Pair Them With
 
-If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget/).
+If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
 
 *This post may contain [affiliate links](/affiliate-disclosure).*
