@@ -14,6 +14,14 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
+			// Must match the slugs in CATEGORIES in src/consts.ts
+			category: z.enum([
+				'uniqlo-styling',
+				'muji-minimalist',
+				'capsule-wardrobe',
+				'japanese-vintage',
+				'sustainable-tips',
+			]),
 		}),
 });
 

@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import CategoryNav from '../../components/CategoryNav.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import PostList from '../../components/PostList.astro';
+import { CATEGORIES, SITE_TITLE } from '../../consts';
+
+export async function getStaticPaths() {
+	return CATEGORIES.map((c) => ({ params: { category: c.slug } }));
+}
+
+const { category } = Astro.params;
+const categoryInfo = CATEGORIES.find((c) => c.slug === category);
+
+const allPosts = await getCollection('blog');
+const posts = allPosts
+	.filter((post) => post.data.category === category)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const pageTitle = `${categoryInfo?.label} | ${SITE_TITLE}`;
+const pageDescription = `Tokyo Mix Style posts about ${categoryInfo?.label}.`;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={pageTitle} description={pageDescription} />
+		<style>
+			main {
+				width: 960px;
+			}
+			h1 {
+				margin-bottom: 0.75em;
+			}
+			.empty {
+				color: rgb(var(--gray));
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>{categoryInfo?.label}</h1>
+			<CategoryNav active={category} />
+			{
+				posts.length > 0 ? (
+					<PostList posts={posts} />
+				) : (
+					<p class="empty">No posts in this category yet — check back soon.</p>
+				)
+			}
+		</main>
+		<Footer />
+	</body>
+</html>
