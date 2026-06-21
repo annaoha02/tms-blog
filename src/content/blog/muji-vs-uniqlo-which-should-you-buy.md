@@ -3,6 +3,7 @@ title: 'Muji vs UNIQLO: Which Should You Buy?'
 description: 'A practical comparison of Muji and UNIQLO for shoppers building a minimalist wardrobe and home — where each brand wins.'
 pubDate: 'Jun 19 2026'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+category: 'muji-minimalist'
 ---
 
 Muji and UNIQLO get grouped together constantly — both are Japanese, both lean minimalist, both are easy to find outside Japan. But they're not interchangeable, and knowing where each one wins will save you money and closet space.
@@ -37,4 +38,4 @@ That mix — new Japanese basics plus old secondhand texture — is the whole id
 
 If you're starting from zero: one or two UNIQLO basics (a shirt and a trouser), one Muji loungewear piece, and one secondhand item with visible texture or age. That's enough to see how the mix works before committing further.
 
-*This post may contain affiliate links.*
+*This post may contain [affiliate links](/affiliate-disclosure).*

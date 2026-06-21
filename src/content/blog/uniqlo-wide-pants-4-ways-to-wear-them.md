@@ -3,6 +3,7 @@ title: 'UNIQLO Wide Pants: 4 Ways to Wear Them'
 description: 'Four reliable outfit formulas for the UNIQLO wide-leg pants, built for a minimalist, sustainable-minded wardrobe.'
 pubDate: 'Jun 19 2026'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+category: 'uniqlo-styling'
 ---
 
 UNIQLO's wide-leg pants — sold across several fabrications, from drapey cotton to their stretch "smart" trousers — have become a quiet staple in minimalist wardrobes outside Japan. They solve a real problem: a wide leg that doesn't read as costume-y, in colors that work with almost everything you already own.
@@ -31,6 +32,6 @@ Wide-leg pants are meant to pool slightly at the ankle or hit right at the shoe 
 
 ## What to Pair Them With
 
-If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog).
+If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
 
-*This post may contain affiliate links.*
+*This post may contain [affiliate links](/affiliate-disclosure).*

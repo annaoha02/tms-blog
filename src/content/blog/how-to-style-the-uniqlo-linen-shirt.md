@@ -3,6 +3,7 @@ title: 'How to Style the UNIQLO Linen Shirt: 5 Outfit Ideas'
 description: 'Five easy, minimalist ways to wear the UNIQLO linen shirt, from breezy summer basics to a Tokyo-inspired vintage mix.'
 pubDate: 'Jun 19 2026'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+category: 'uniqlo-styling'
 ---
 
 The UNIQLO linen shirt is one of those rare pieces that earns its spot in a capsule wardrobe twice over: it's breathable enough for a humid commute and structured enough to look intentional with almost nothing else. If you only buy one "investment basic" from UNIQLO this season, this is a strong candidate.
@@ -35,6 +36,6 @@ Linen wrinkles by design, not by accident — it's part of the texture. UNIQLO's
 
 ## Building Around This Piece
 
-If you're working on a broader capsule wardrobe, the linen shirt pairs with almost every bottom in a neutral palette, which is what makes it a high-value piece per dollar. We'll cover a full breakdown in our [Tokyo capsule wardrobe guide](/blog).
+If you're working on a broader capsule wardrobe, the linen shirt pairs with almost every bottom in a neutral palette, which is what makes it a high-value piece per dollar. We'll cover a full breakdown in our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
 
-*This post may contain affiliate links.*
+*This post may contain [affiliate links](/affiliate-disclosure).*
