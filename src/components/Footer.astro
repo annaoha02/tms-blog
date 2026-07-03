@@ -5,6 +5,9 @@ const today = new Date();
 <footer>
 	&copy; {today.getFullYear()} Tokyo Mix Style. All rights reserved.
 	<p class="disclosure-note">This site may contain affiliate links.</p>
+	<p class="footer-links">
+		<a href="/privacy-policy">Privacy Policy</a> · <a href="/contact">Contact</a> · <a href="/affiliate-disclosure">Affiliate Disclosure</a>
+	</p>
 </footer>
 <style>
 	footer {
@@ -16,6 +19,13 @@ const today = new Date();
 	.disclosure-note {
 		margin: 0.5em 0 0 0;
 		font-size: 0.85em;
+		color: rgb(var(--gray));
+	}
+	.footer-links {
+		margin: 0.5em 0 0 0;
+		font-size: 0.85em;
+	}
+	.footer-links a {
 		color: rgb(var(--gray));
 	}
 </style>
