@@ -1,127 +1,35 @@
 ---
-import { getCollection } from 'astro:content';
-import { Image } from 'astro:assets';
-import HeroImage from '../assets/blog-placeholder-1.jpg';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import PostList from '../components/PostList.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
-
-const posts = (await getCollection('blog'))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 6);
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} image={HeroImage} />
-		<style>
-			.hero {
-				position: relative;
-				height: min(80vh, 640px);
-				min-height: 420px;
-				display: flex;
-				align-items: flex-end;
-				overflow: hidden;
-			}
-			.hero :global(img) {
-				position: absolute;
-				inset: 0;
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				border-radius: 0;
-				margin: 0;
-			}
-			.hero::after {
-				content: '';
-				position: absolute;
-				inset: 0;
-				background: linear-gradient(to top, rgba(20, 15, 12, 0.75), rgba(20, 15, 12, 0) 55%);
-			}
-			.hero-content {
-				position: relative;
-				z-index: 1;
-				width: 100%;
-				max-width: 1100px;
-				margin: 0 auto;
-				padding: 0 1.25em 2.5em;
-				color: #faf6f1;
-			}
-			.hero-content h1 {
-				color: #faf6f1;
-				max-width: 14ch;
-			}
-			.hero-content p {
-				max-width: 46ch;
-				font-size: 1.1rem;
-				color: rgba(250, 246, 241, 0.9);
-			}
-			.intro {
-				text-align: center;
-			}
-			.intro p {
-				max-width: 60ch;
-				margin: 0 auto 1.25em;
-			}
-			.section-heading {
-				display: flex;
-				align-items: baseline;
-				justify-content: space-between;
-				gap: 1em;
-				margin-bottom: 1.5em;
-			}
-			.section-heading h2 {
-				margin: 0;
-			}
-			.section-heading a {
-				font-size: 0.85rem;
-				font-weight: 600;
-				letter-spacing: 0.04em;
-				text-transform: uppercase;
-				text-decoration: none;
-				white-space: nowrap;
-			}
-		</style>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
-		<div class="hero">
-			<Image src={HeroImage} alt="" width={1600} height={1067} />
-			<div class="hero-content">
-				<span class="eyebrow">Tokyo Mix Style</span>
-				<h1>Japanese basics, worn different.</h1>
-				<p>
-					Clean staples from UNIQLO and Muji, mixed with secondhand pieces that bring in texture
-					and history. Real outfit formulas, not trend-chasing.
-				</p>
-				<a href="/blog" class="btn">Read the latest looks <span class="btn-arrow">→</span></a>
-			</div>
-		</div>
-
-		<section class="wide-section intro">
+		<main>
+			<h1>Tokyo Mix Style</h1>
 			<p>
-				Japan makes some of the best everyday clothing in the world. Tokyo Mix Style pairs that
-				"less, but better" philosophy with the character and sustainability of secondhand pieces —
-				a wardrobe that feels considered, not trend-chasing, and a lot more interesting than
-				buying everything new.
+				Japanese fashion has always known how to do "less, but better." Tokyo Mix Style is about
+				pairing that philosophy — clean basics from brands like UNIQLO and Muji — with the
+				character and sustainability of secondhand pieces. The result is a wardrobe that feels
+				considered, not trend-chasing, and a lot more interesting than buying everything new.
 			</p>
 			<p>
-				New guides go up roughly once a week: outfit formulas, capsule wardrobe building, and
-				honest brand comparisons.
+				This is a small, slow-growing blog. New guides go up roughly once a week, focused on
+				realistic outfit combinations, capsule wardrobe building, and honest comparisons of the
+				Japanese brands most people outside Japan have heard of but aren't sure how to wear.
 			</p>
-		</section>
-
-		<section class="wide-section">
-			<div class="section-heading">
-				<h2>Latest looks</h2>
-				<a href="/blog">View all &rarr;</a>
-			</div>
-			<PostList posts={posts} />
-		</section>
-
+			<p>
+				Start with the <a href="/blog">latest posts</a>, or read more about
+				<a href="/about">why this site exists</a>.
+			</p>
+		</main>
 		<Footer />
 	</body>
 </html>

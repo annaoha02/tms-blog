@@ -17,28 +17,18 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
-			.page-header {
-				text-align: center;
-				padding-top: 1em;
-			}
-			.page-header p {
-				max-width: 50ch;
-				margin: 0.5em auto 0;
-				color: rgb(var(--gray));
+			main {
+				width: 960px;
+				max-width: calc(100% - 2em);
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
-		<section class="wide-section page-header">
-			<span class="eyebrow">Journal</span>
-			<h1>All looks</h1>
-			<p>Outfit formulas, capsule wardrobe guides, and honest brand comparisons.</p>
-		</section>
-		<section class="wide-section">
+		<main>
 			<CategoryNav />
 			<PostList posts={posts} />
-		</section>
+		</main>
 		<Footer />
 	</body>
 </html>
