@@ -2,7 +2,7 @@
 title: '10-Piece Japanese Minimalist Wardrobe'
 description: 'A practical 10-piece wardrobe blueprint built around clean Japanese basics and a few secondhand pieces for texture.'
 pubDate: 'Jun 27 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog/10-piece-japanese-minimalist-wardrobe-hero.jpg'
 category: 'capsule-wardrobe'
 ---
 

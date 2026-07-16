@@ -2,7 +2,7 @@
 title: 'The Tokyo Street Style Aesthetic Explained'
 description: 'The visual logic behind Tokyo street style — neutral palettes, proportion play, and mixing new basics with worn vintage pieces.'
 pubDate: 'Jun 27 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/blog/the-tokyo-street-style-aesthetic-explained-hero.jpg'
 category: 'sustainable-tips'
 ---
 

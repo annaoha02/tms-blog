@@ -2,7 +2,7 @@
 title: 'Finding Japanese Vintage: A Guide for Beginners'
 description: 'What makes Japanese vintage distinct, where to start looking, and how to spot quality pieces worth building a wardrobe around.'
 pubDate: 'Jun 27 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/blog/finding-japanese-vintage-a-guide-for-beginners-hero.jpg'
 category: 'japanese-vintage'
 ---
 

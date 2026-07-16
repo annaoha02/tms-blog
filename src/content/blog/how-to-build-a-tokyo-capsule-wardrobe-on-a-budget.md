@@ -2,7 +2,7 @@
 title: 'How to Build a Tokyo Capsule Wardrobe on a Budget'
 description: 'A step-by-step approach to building a minimalist, Tokyo-inspired capsule wardrobe by mixing affordable Japanese basics with secondhand finds.'
 pubDate: 'Jun 19 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget-hero.jpg'
 category: 'capsule-wardrobe'
 ---
 
