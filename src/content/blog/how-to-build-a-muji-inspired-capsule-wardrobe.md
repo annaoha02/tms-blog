@@ -1,7 +1,8 @@
 ---
 title: 'How to Build a Muji-Inspired Capsule Wardrobe'
-description: 'A practical guide to building a small, versatile wardrobe around Muji basics, natural fabrics, and a few secondhand pieces.'
+description: 'A practical guide to building a small, versatile wardrobe around Muji basics, natural fabrics, and a few secondhand pieces — with the rules, the core five, and a sample week.'
 pubDate: 'Jun 29 2026'
+updatedDate: 'Aug 21 2026'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 category: 'muji-minimalist'
 ---
@@ -24,13 +25,22 @@ A Muji-based capsule works best when you anchor it around pieces the brand is ge
 
 These five cover most casual and work-from-home days on their own, before you add any outerwear or secondhand pieces.
 
+![A plain, soft Muji-style top photographed flat on a plain background](/real-photos/21_top_muji_flat.jpg)
+*The Muji starting point: a plain, soft, natural-fabric top with no branding. Unremarkable alone, reliable in combination — which is exactly the point.*
+
 ## Why the Fabrics Matter More Than the Cut
 
 Muji leans heavily on linen, raw cotton, and undyed or naturally dyed textiles, and that's the detail worth paying attention to. These fabrics soften and texture with wear, which means a Muji piece a year in often looks better — and closer to good secondhand clothing — than it did new. If you're choosing between two similar pieces, default to the one with the more natural fabric; it will age into the wardrobe rather than just sit in it.
 
+![A pair of relaxed Muji-style trousers photographed flat](/real-photos/54_bottom_muji_flat.jpg)
+*Relaxed, natural-fabric bottoms round out the base. Comfort and texture over performance is the Muji trade-off, and it's the right one for an everyday capsule.*
+
 ## Add Contrast With One or Two Secondhand Pieces
 
 Muji's aesthetic is intentionally quiet, which means it can read as flat if every piece in the outfit is equally subdued. One secondhand item with real age or character — a worn denim jacket, a leather belt, a vintage scarf — gives the eye somewhere to land. This is the same principle behind the [10-piece Japanese minimalist wardrobe](/blog/10-piece-japanese-minimalist-wardrobe) we've outlined before: a small number of textured, secondhand pieces does more than a wardrobe full of them.
+
+![A pair of worn secondhand leather sandals photographed flat](/real-photos/10_shoes_vintage_flat.jpg)
+*One worn secondhand accent — here, aged leather sandals — is what keeps a calm Muji base from reading as flat. It's the contrast, not the quantity, that matters.*
 
 ## Where UNIQLO Fits Alongside Muji
 

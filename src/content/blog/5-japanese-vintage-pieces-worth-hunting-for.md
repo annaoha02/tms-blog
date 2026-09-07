@@ -1,7 +1,8 @@
 ---
 title: '5 Japanese Vintage Pieces Worth Hunting For'
-description: 'Five categories of Japanese vintage clothing worth seeking out, and what makes each one a durable, versatile addition to a wardrobe.'
+description: 'Five categories of Japanese vintage clothing worth seeking out, what makes each durable and versatile, and how to fold them into a modern wardrobe.'
 pubDate: 'Jul 6 2026'
+updatedDate: 'Aug 21 2026'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'japanese-vintage'
 ---
@@ -10,19 +11,28 @@ Japanese vintage covers a lot of ground, and if you're new to it, it helps to kn
 
 ## 1. Selvedge Denim
 
-Selvedge denim is woven on older, narrower shuttle looms that leave a tightly finished edge along the fabric — visible as a colored line inside the cuff or hem when rolled up. Japanese mills have kept this weaving method going long after most Western manufacturers moved to cheaper, wider looms, and the denim tends to be heavier and to fade more unevenly as a result. A single well-made pair is a genuine investment piece, and one worth understanding before you buy — our [guide to spotting real Japanese selvedge](/blog/finding-japanese-vintage-a-guide-for-beginners) covers what to check before committing.
+Selvedge denim is woven on older, narrower shuttle looms that leave a tightly finished edge along the fabric — visible as a colored line inside the cuff or hem when rolled up. Japanese mills have kept this weaving method going long after most Western manufacturers moved to cheaper, wider looms, and the denim tends to be heavier and to fade more unevenly as a result. A single well-made pair is a genuine investment piece, and one worth understanding before you buy — our [guide to spotting real Japanese vintage](/blog/finding-japanese-vintage-a-guide-for-beginners) covers what to check before committing.
 
 ## 2. Boro and Sashiko-Mended Textiles
 
 Boro refers to Japanese textiles, often indigo-dyed cotton, that were patched and re-patched over generations using sashiko, a running-stitch technique originally developed for reinforcement rather than decoration. What started as necessity — rural households couldn't easily replace fabric — is now recognized as a distinct textile tradition in its own right. A boro jacket or sashiko-mended piece brings visible history into an outfit in a way nothing new can replicate.
 
+![A textured secondhand fabric piece photographed flat on a plain background](/real-photos/44_acc_vintage_flat.jpg)
+*Textile character like this — soft, worn, a little irregular — is exactly what mended and repaired vintage brings that new production can't fake.*
+
 ## 3. Workwear and Military-Surplus Jackets
 
 Japan has a long-standing culture of importing, reselling, and carefully maintaining American workwear and military surplus, often keeping pieces in better condition than they'd have survived in their country of origin. Alongside that, there's homegrown Japanese workwear — indigo-dyed work jackets, canvas coats — that rarely turns up outside Japan. Either category makes a durable, neutral outer layer that works over almost any minimalist base.
 
+![A structured vintage jacket photographed flat, showing a muted pattern](/real-photos/04_outer_vintage_flat.jpg)
+*A workwear-weight vintage jacket is the most useful single piece on this list — durable, neutral enough to go with anything, and full of character on its own.*
+
 ## 4. Kimono Fabric Remade Into Modern Shapes
 
 Vintage kimono silk and cotton are increasingly reworked into contemporary pieces — shirts, jackets, even accessories — by makers who cut around stains or wear rather than discarding the fabric. The results carry patterns and weaves you won't find in new production, and buying them supports a small but meaningful form of textile reuse. These pieces work best as a single statement item against otherwise plain basics, similar to the approach in our post on [mixing vintage with UNIQLO](/blog/mixing-vintage-and-uniqlo-5-outfit-ideas).
+
+![A patterned vintage dress photographed flat](/real-photos/32_dress_vintage_flat.jpg)
+*Reworked or vintage patterned fabric is best worn as the one statement in an outfit — let the print be the focal point and keep everything around it quiet.*
 
 ## 5. 1990s Japanese Domestic Streetwear
 
