@@ -1,7 +1,8 @@
 ---
 title: 'UNIQLO Wide Pants: 4 Ways to Wear Them'
-description: 'Four reliable outfit formulas for the UNIQLO wide-leg pants, built for a minimalist, sustainable-minded wardrobe.'
+description: 'Four reliable outfit formulas for the UNIQLO wide-leg pants, built for a minimalist, sustainable-minded wardrobe — with sizing and pairing tips.'
 pubDate: 'Jun 19 2026'
+updatedDate: 'Aug 21 2026'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 category: 'uniqlo-styling'
 ---
@@ -10,9 +11,15 @@ UNIQLO's wide-leg pants — sold across several fabrications, from drapey cotton
 
 Here are four outfit formulas that hold up regardless of which version you own.
 
+![A pair of neutral wide-leg trousers photographed flat on a plain background](/real-photos/39_bottom_vintage_flat.jpg)
+*A neutral, drapey wide-leg trouser is the piece all four formulas below are built on. Get the color right — stone, black, or off-white — and it pairs with almost anything.*
+
 ## 1. Cropped Top, Wide Pants, Statement Shoe
 
 Pair the wide pants with a fitted or cropped top (a simple ribbed tee or tank) and let the shoe carry the outfit — a chunky loafer, a Mary Jane, or a clean white sneaker. Because the pants are already doing visual work with their volume, the top should stay simple.
+
+![A fitted UNIQLO layering tank photographed flat](/real-photos/55_top_uniqlo_flat.jpg)
+*The fitted-top half of formula one. Keep the top plain and close-cut so the volume of the trouser reads as the deliberate part of the outfit.*
 
 ## 2. Monochrome, Head to Toe
 
@@ -26,12 +33,15 @@ Layer an oversized blazer — new or secondhand — over a simple top, then add 
 
 For a Tokyo Mix Style take, add a worn leather belt (secondhand shops are full of these) and ankle boots. The combination of new, clean-lined UNIQLO trousers with a visibly aged belt is exactly the kind of contrast this site is built around — modern Japanese basics, grounded by something with history.
 
+![A pair of navy wide-leg trousers photographed flat](/real-photos/22_bottom_vintage_flat.jpg)
+*A second wide-leg pair in navy. Owning the silhouette in two neutrals is often more useful than owning it in one — it doubles the outfits without adding complexity.*
+
 ## Sizing Tip
 
-Wide-leg pants are meant to pool slightly at the ankle or hit right at the shoe — if they're cropping above your ankle bone, you've likely sized down too far. When in doubt, size up rather than down; the silhouette depends on the volume.
+Wide-leg pants are meant to pool slightly at the ankle or hit right at the shoe — if they're cropping above your ankle bone, you've likely sized down too far. When in doubt, size up rather than down; the silhouette depends on the volume. The same goes for the waist: these are designed to sit relaxed, so a slightly loose waist you can belt beats a tight one that fights the drape.
 
 ## What to Pair Them With
 
-If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget).
+If you're building a full capsule around a pair of wide pants, start with two tops (one fitted, one oversized) and one structured outer layer. That's enough to generate the four outfits above and several more. For a complete list, see our [Tokyo capsule wardrobe guide](/blog/how-to-build-a-tokyo-capsule-wardrobe-on-a-budget), and our [UNIQLO basics guide](/blog/best-uniqlo-basics-for-a-minimalist-wardrobe) for the tops worth pairing them with.
 
 *This post may contain [affiliate links](/affiliate-disclosure).*
